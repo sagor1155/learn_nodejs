@@ -10,6 +10,6 @@
   "author": "sagor sarker",
   "license": "MIT",
   "dependencies": {
-    "electron": "^7.1.0"
+    "electron": "^9.4.0"
   }
 }
